@@ -39,7 +39,7 @@ Question 4
   roslaunch bot_description naviation.launch 
   Rviz
  
-
+![Robot Path](https://github.com/EdwinGeorge1/Ogmen/blob/master/DALL%C2%B7E%202024-07-30%2022.12.43%20-%20A%20clear%20and%20simple%20diagram%20showing%20the%20path%20of%20a%20robot%20moving%20through%20five%20waypoints.%20The%20waypoints%20are%20labeled%20with%20their%20coordinates%20and%20orientation.webp)
 
 
 
